@@ -35,7 +35,7 @@ Social Tree, serve como agregador de links o(a) cliente.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/JNAB2p2Ks3hg6IS1t3dE0T/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=1437-191&t=WZOBoswsV41es1Wq-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/YFCoY0FpdZtUzORaetM4XA/Social-Tree-%E2%80%A2-Desafio-Discover-(Community)?type=design&node-id=6880-20&t=2fcDo7HKASXNyN5S-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ##   Licença
 
